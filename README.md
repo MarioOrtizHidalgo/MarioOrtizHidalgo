@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://raw.githubusercontent.com/MarioOrtizHidalgo/MarioOrtizHidalgo/main/banner_linkedIn.jpeg" />
 </div>
 
 ###
